@@ -953,7 +953,9 @@ img {
   color: var(--action-color);
 }
 
-.modal-form-policy-checkbox {
+.visually-hidden {
+  -moz-appearance: none;
+  -webkit-appearance: none;
   appearance: none;
 }
 
